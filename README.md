@@ -1,2 +1,2 @@
 # MTG-DataAnalysis
-A report showcasing the trends of Magic: The Gathering decks in the form of Commander. It highlights shifts in deck archetypes, color combinations, and card usage over time among players.
+The objective of this project is to identify the most popular colour combinations in Commander based on sales. 
